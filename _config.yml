@@ -13,9 +13,9 @@ title                    : "3DS Hacks Guide"
 title_separator          : "-"
 name                     : "Nintendo Homebrew"
 description              : "Full sighax CFW Guide"
-url                      : "https://3ds.hacks.guide" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-enforce_ssl              : "3ds.hacks.guide"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+url                      : "https://bleck9999.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+enforce_ssl              : "https://bleck9999.github.io"
+baseurl                  : "/Guide_3DS" # the subpath of your site, e.g. "/blog"
 repository               : "hacks-guide/Guide_3DS" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : # true, false (default)
@@ -72,10 +72,10 @@ social:
   links: # An array of links to social media profiles
 
 # Analytics
-analytics:
-  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          : "UA-86465881-1"
+#analytics:
+#  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
+#  google:
+#    tracking_id          : "UA-86465881-1"
 
 
 # Site Author
